@@ -223,7 +223,7 @@
         <bounds x="310" y="924" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-79aeaa86364540258e554350a14afeac" targetConnections="id-f440432fa90040eda43f7e965e8e8b62" archimateElement="id-26d9b3531bc14515bfe9f1fea17aa129">
-        <bounds x="768" y="899" width="181" height="132"/>
+        <bounds x="761" y="899" width="181" height="132"/>
       </child>
     </element>
   </folder>
